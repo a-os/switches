@@ -1,5 +1,15 @@
 {
   "name": "switches",
   "version": "0.0.1",
-  "private": true
+  "homepage": "https://github.com/alivedise/switches",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "switches.js"
 }
